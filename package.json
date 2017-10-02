@@ -1,0 +1,17 @@
+{
+  "name": "ZEx",
+  "version": "1.0.0",
+  "description": "An exploit framework using nodejs",
+  "main": "index.js",
+  "author": "ZeroX",
+  "license": "MIT",
+  "scripts": {
+  	"start" : "node index.js"
+  },
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "glob": "^7.1.2",
+    "lodash": "^4.17.4",
+    "stampit": "^3.2.1"
+  }
+}
